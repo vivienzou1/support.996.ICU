@@ -234,6 +234,7 @@ Supported by / 支持者:
 * Kuilin Xiang, Software Engineer, Juejin
 * Kunxiong Ling, Development Engineer, BMW Group
 * Kevin Li, System Support Analyst, TSG, Auckland, New Zealand
+* Lan Zou, Student, Carnegie Mellon University, US
 * Lang Qin, IC Verification Engineer, Globalfoundries
 * Lantao Liu (Lax), Programmer, Full-Time Freelancer
 * Le Zhang, Data Scientist, Microsoft
